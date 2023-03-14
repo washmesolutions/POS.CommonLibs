@@ -1,0 +1,4 @@
+F:\POS\POS.CommonLibs\POS.Lib.Data\bin\Debug\netstandard2.0\POS.Lib.Configuration.dll
+F:\POS\POS.CommonLibs\POS.Lib.Data\obj\Debug\netstandard2.0\POS.Lib.Data.csprojAssemblyReference.cache
+F:\POS\POS.CommonLibs\POS.Lib.Data\obj\Debug\netstandard2.0\POS.Lib.Data.AssemblyInfoInputs.cache
+F:\POS\POS.CommonLibs\POS.Lib.Data\obj\Debug\netstandard2.0\POS.Lib.Data.AssemblyInfo.cs

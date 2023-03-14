@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\POS\\POS.CommonLibs\\POS.Lib.Data\\POS.Lib.Data.csproj": {}
+  },
+  "projects": {
+    "F:\\POS\\POS.CommonLibs\\POS.Lib.Data\\POS.Lib.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\POS\\POS.CommonLibs\\POS.Lib.Data\\POS.Lib.Data.csproj",
+        "projectName": "POS.Lib.Data",
+        "projectPath": "F:\\POS\\POS.CommonLibs\\POS.Lib.Data\\POS.Lib.Data.csproj",
+        "packagesPath": "C:\\Users\\d.mendis\\.nuget\\packages\\",
+        "outputPath": "F:\\POS\\POS.CommonLibs\\POS.Lib.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\d.mendis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://installers.askia.com/AskiaNuGet/nuget/": {},
+          "http://staging.dev.p1central.com/P1NugetServer/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
